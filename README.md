@@ -1,5 +1,5 @@
 # Project Overview	#
-The main goal of this project is to build and deploy an ELT pipeline on AWS using the skills we learned in our data engineering bootcamp. We use the Spotify API to collect data on tracks, albums, and artists, then load it into a database to run basic analyses.
+The main goal of this project is to build and deploy an ELT pipeline on AWS. We use the Spotify API to collect data on tracks, albums, and artists, then load it into a database to run basic analyses.
 
 ## Consumers
 The users of our dataset will be the data analytics team, hobbyists, or students.
